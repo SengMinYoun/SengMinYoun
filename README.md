@@ -1,6 +1,9 @@
 ### Hi! 
 I'm a business school graduate aspiring to become a data sceintist. 
 
+Education
+---
+HI
 <!--
 **SengMinYoun/SengMinYoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
