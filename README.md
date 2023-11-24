@@ -1,9 +1,15 @@
 ### Hi! 
 I'm a business school graduate aspiring to become a data sceintist. 
 
-Education
+🎓Education
 ---
-HI
+2019-2021 B.B.A. Hanyang Univeristy 
+2018-2019 Associates Degree in Business Administration National Credit Bank System
+
+📚Tech Stack
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **SengMinYoun/SengMinYoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
