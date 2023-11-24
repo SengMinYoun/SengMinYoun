@@ -3,7 +3,7 @@ I'm a business school graduate aspiring to become a data sceintist.
 
 🎓Education
 ---
-2019-2021 B.B.A. Hanyang Univeristy 
+<br>2019-2021 B.B.A. Hanyang Univeristy</br?
 2018-2019 Associates Degree in Business Administration National Credit Bank System
 
 📚Tech Stack
