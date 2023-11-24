@@ -1,7 +1,7 @@
 ### Hi! 
 I'm a business school graduate aspiring to become a data sceintist. 
 
-Contact me at
+<br>Contact me at</br>
 ✉ Email : sengminyoun96@gmail.com
 
 🎓Education
