@@ -8,7 +8,7 @@ I'm a business school graduate aspiring to become a data sceintist.
 
 📚Tech Stack
 ---
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <!--
 **SengMinYoun/SengMinYoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
